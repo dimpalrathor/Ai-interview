@@ -1,6 +1,12 @@
+Flask
+gunicorn
+openai
+transformers
+requests
 setuptools>=65.0.0
 wheel>=0.38.0
 pip>=25.1
+build
 streamlit==1.28.0
 speechrecognition==3.10.0
 pyttsx3==2.90
