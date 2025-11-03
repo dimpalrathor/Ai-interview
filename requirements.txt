@@ -1,5 +1,4 @@
-# [file name]: requirements.txt
-setuptools
+setuptools>=68.0.0
 wheel
 flask
 requests
